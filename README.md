@@ -2,7 +2,7 @@
 <img src="./assets/logo-black.svg#gh-light-mode-only" alt="ink!ubator" title="ink!ubator 2.0" style="height: 48px;">
 
 > [!TIP]
-> Update Feb 12, 2025: **Applications for cohort 2 are now open.**
+> Update  12, 2025: **Applications for cohort 2 are now open.**
 
 > [!TIP]
 > For a list of grants provided as part of this bounty, please see our dedicated [Accepted Grant Applications](applications/index.md) document.
